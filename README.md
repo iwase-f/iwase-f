@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @iwase-f
 - 👀 I’m interested in computational physics.
-- 🌱 I’m currently learning quantum computation.
-- 💞️ I’m looking to collaborate on model calculation of magnetism.
+- 🌱 I’m currently learning post-quantum cryptography.
+- 💞️ I’m looking to collaborate on model post-quantum cryptography.
 - 📫 How to reach me ...
 
 <!---
