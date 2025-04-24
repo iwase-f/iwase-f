@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @iwase-f
 - 👀 I’m interested in computational physics.
-- 🌱 I’m currently learning tensor network and post-quantum cryptography.
-- 💞️ I’m looking to collaborate on model post-quantum cryptography.
+- 🌱 I’m currently learning quantum information physics and post-quantum cryptography.
+- 💞️ I’m looking to collaborate on lattice model.
 - 📫 How to reach me ...
 
 <!---
